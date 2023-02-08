@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @solusarcticwolf
-- 👀 I’m interested in Linux development.
-- 🌱 I’m currently learning Python, AWS, Docker & Web Development.
+- 👀 I’m interested in Linux, DevOps & Shell Scripting.
+- 🌱 I’m currently learning Python, Cloud, Docker & Web Development.
 - 📫 How to reach me: jcoetzer101@gmail.com | jon@getatechie.com
 
 <!---
