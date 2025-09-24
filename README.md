@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @solusarcticwolf
 - 👀 I’m interested in Linux, DevOps & Shell Scripting.
-- 🌱 I’m currently learning Python, Cloud, Docker & Web Development.
-- 📫 How to reach me: jcoetzer101@gmail.com | jon@getatechie.com
+- 🌱 I’m currently learning Python, Cloud, Docker & All things web development.
+- 📫 How to reach me: jcoetzer101@gmail.com
 
 <!---
 solusarcticwolf/solusarcticwolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
